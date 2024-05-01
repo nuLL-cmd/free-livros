@@ -1,4 +1,5 @@
 ## Free Livros
+
 Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível.
 
 O Free Livros disponibiliza conteúdo de dominio publico e
@@ -21,12 +22,14 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 ## Desfrute do nosso acervo de livros
 
-
 ```markdown
 --- Algoritmos:
 ```
 
 - [Algorithms](https://github.com/free-educa/books/blob/main/books/Algorithms.pdf)
+
+
+- [Algoritmos - Teoria e Prática Thomas H. Cormen, Charles E. Leiserson etc](https://github.com/free-educa/books/blob/main/books/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica%20(Thomas%20H.%20Cormen%2C%20%20Charles%20E.%20Leiserson%20etc.).pdf)
 
 - [Caderno de Algoritmos](https://github.com/free-educa/books/blob/main/books/Caderno%20de%20Algoritmos.pdf)
 
@@ -37,6 +40,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Arquitetura:
 ```
+
+- [Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software](https://github.com/free-educa/books/blob/main/books/Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software%20(Robert%20C.%20Martin)%20(z-lib.org).pdf)
+
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software%20-%20Casa%20do%20Codigo.pdf)
 
 - [Introdução à Arquitetura e Design de Software](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20Arquitetura%20e%20Design%20de%20Software.pdf)
@@ -49,6 +55,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Caixa de Ferramentas DevOps Um guia para construcao, administracao e arquitetura de sistemas modernos](https://github.com/free-educa/books/blob/main/books/Caixa%20de%20Ferramentas%20DevOps%20Um%20guia%20para%20construcao%2C%20administracao%20e%20arquitetura%20de%20sistemas%20modernos%20-%20Casa%20do%20Codigo.pdf)
 
+- [UML 2 - Uma Abordagem Prática - Autor (Gilleanes Guedes)](https://github.com/free-educa/books/blob/main/books/UML%202%20-%20Uma%20Abordagem%20Pr%C3%A1tica%20-%20Autor%20(Gilleanes%20Guedes).pdf)
+
 ```markdown
 --- Automação:
 ```
@@ -59,7 +67,13 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Jenkins - Automatize tudo sem complicacoes](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20%20Automatize%20tudo%20sem%20complicacoes.pdf)
 
+- [DevOps nativo de nuvem com Kubernetes](https://github.com/free-educa/books/blob/main/books/DevOps%20nativo%20de%20nuvem%20com%20Kubernetes%20(Justin%20Domingus%20John%20Arundel%20%5BDomingus%20etc.)%20(z-lib.org).pdf)
 
+- [Elasticsearch consumindo dados real time com ELK](https://github.com/free-educa/books/blob/main/books/Elasticsearch%20consumindo%20dados%20real%20time%20com%20ELK%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
+
+- [Jenkins - Automatize tudo sem complicações](https://github.com/free-educa/books/blob/main/books/Jenkins%20-%20Automatize%20tudo%20sem%20complica%C3%A7%C3%B5es%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
+
+- [Kubernetes - Tudo sobre orquestração de contêineres](https://github.com/free-educa/books/blob/main/books/Kubernetes%20-%20Tudo%20sobre%20orquestra%C3%A7%C3%A3o%20de%20cont%C3%AAineres%20(Lucas%20Santos)%20(z-lib.org).pdf)
 
 ```markdown
 --- Back-end:
@@ -127,21 +141,21 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [C - Completo e Total](https://github.com/0ortiz/books/blob/main/books/C-Completo-Total.pdf)
 
-- [C# e Orientação a Objetos - Caelum, FN-13](https://github.com/free-educa/books/blob/main/books/C%23%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20FN-13.pdf)
-
 - [Introdução à Programação em C++](https://luksamuk.codes/files/treinamento-cpp.pdf)
 
 - [Programação Básica em C++](https://www.inf.ufpr.br/ci208/NotasAula.pdf)
+
+- [C++ Concurrency in Action](https://github.com/free-educa/books/blob/main/books/C%2B%2B%20Concurrency%20in%20Action.pdf)
+
+- [C++20 for Programmers - An Objects-Natural Approach](https://github.com/free-educa/books/blob/main/books/C%2B%2B20%20for%20Programmers_%20An%20Objects-Natural%20Approach.pdf)
+
+- [Effective Modern C++](https://github.com/free-educa/books/blob/main/books/Effective%20Modern%20C%2B%2B.pdf)
 
 - [Michael Barr - Programming Embedded Systems in C and C ++-O_Reilly Media (1999)](<https://github.com/free-educa/books/blob/main/books/Michael%20Barr%20-%20Programming%20Embedded%20Systems%20in%20C%20and%20C%20%2B%2B-O_Reilly%20Media%20(1999).pdf>)
 
 - [Introdução à programação em C - Os primeiros passos de um desenvolvedor](https://github.com/free-educa/books/blob/main/books/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20em%20C%20-%20Os%20primeiros%20passos%20de%20um%20desenvolvedor.pdf)
 
-- [Test Driven Development - Teste e Design no Mundo Real com DotNet](https://github.com/free-educa/books/blob/main/books/Test%20Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20DotNet%20-%20Casa%20do%20Codigo.pdf)
-
 - [Test-Driven Development - Teste e Design no Mundo Real](https://github.com/free-educa/books/blob/main/books/Test-Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20-%20Casa%20do%20Codigo.pdf)
-
-- [Everton Coimbra de Araújo - Asp.NET Core MVC - Aplicações Modernas em Conjunto com o Entity Framework](https://github.com/free-educa/books/blob/main/books/Everton%20Coimbra%20de%20Ara%C3%BAjo%20-%20Asp.NET%20Core%20MVC%20-%20%20Aplica%C3%A7%C3%B5es%20Modernas%20em%20Conjunto%20com%20o%20Entity%20Framework.pdf)
 
 - [Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis](https://github.com/free-educa/books/blob/main/books/Orienta%C3%A7%C3%A3o%20a%20Objetos%20e%20SOLID%20para%20Ninjas%20Projetando%20classes%20flex%C3%ADveis%20-%20Casa%20do%20Codigo.pdf)
 
@@ -150,8 +164,21 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Michael J Pont - Embedded C-Addison-Wesley Professional (2002)](<https://github.com/free-educa/books/blob/main/books/Michael%20J%20Pont%20-%20Embedded%20C-Addison-Wesley%20Professional%20(2002).pdf>)
 
 ```markdown
+--- C# e complementos:
+```
+
+- [C# Para Iniciantes - livrocsharp.com.br](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf)
+
+- [C# e Orientação a Objetos - Caelum, FN-13](https://github.com/free-educa/books/blob/main/books/C%23%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%20Caelum%2C%20FN-13.pdf)
+
+- [Test Driven Development - Teste e Design no Mundo Real com DotNet](https://github.com/free-educa/books/blob/main/books/Test%20Driven%20Development%20-%20Teste%20e%20Design%20no%20Mundo%20Real%20com%20DotNet%20-%20Casa%20do%20Codigo.pdf)
+
+- [Everton Coimbra de Araújo - Asp.NET Core MVC - Aplicações Modernas em Conjunto com o Entity Framework](https://github.com/free-educa/books/blob/main/books/Everton%20Coimbra%20de%20Ara%C3%BAjo%20-%20Asp.NET%20Core%20MVC%20-%20%20Aplica%C3%A7%C3%B5es%20Modernas%20em%20Conjunto%20com%20o%20Entity%20Framework.pdf)
+
+```markdown
 --- Calculo:
 ```
+
 - [Cálculo I](https://github.com/free-educa/books/blob/main/books/C%C3%A1lculo%20I.pdf)
 
 - [Introducao ao Calculo Diferencial](https://github.com/free-educa/books/blob/main/books/Introducao%20ao%20Calculo%20Diferencial.pdf)
@@ -175,6 +202,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Design:
 ```
+
 - [Conhecendo o Adobe Photoshop CS6](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20-%20Casa%20do%20Codigo.pdf)
 
 - [Conhecendo o Adobe Photoshop CS6 ](https://github.com/free-educa/books/blob/main/books/Conhecendo%20o%20Adobe%20Photoshop%20CS6%20.pdf)
@@ -235,7 +263,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Jogos Android - Crie um game do zero usando classes nativas](https://github.com/free-educa/books/blob/main/books/Jogos%20Android%20-%20Crie%20um%20game%20do%20zero%20usando%20classes%20nativas%20-%20Casa%20do%20Codigo.pdf)
 
-
 - [Jogos em HTML5 Explore o mobile e física](https://github.com/free-educa/books/blob/main/books/Jogos%20em%20HTML5%20Explore%20o%20mobile%20e%20f%C3%ADsica%20-%20Casa%20do%20Codigo.pdf)
 
 - [Livro de Desenvolvimento de jogos 3D](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Desenvolvimento%20de%20jogos%203D.pdf)
@@ -245,6 +272,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Git:
 ```
+
 - [Controlando versões com Git e GitHub](https://github.com/free-educa/books/blob/main/books/Controlando%20vers%C3%B5es%20com%20Git%20e%20GitHub%20-%20Casa%20do%20Codigo.pdf)
 
 ```markdown
@@ -253,14 +281,13 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Programando em Go - Crie aplicações com a linguagem do Google](https://github.com/free-educa/books/blob/main/books/Programando%20em%20Go%20-%20Crie%20aplica%C3%A7%C3%B5es%20com%20a%20linguagem%20do%20Google%20-%20Casa%20do%20Codigo.pdf)
 
-
 ```markdown
 --- Hardware:
 ```
 
-- [(Albert Paul Malvino_ David J. Bates - Eletrônica Volume 2)](https://github.com/soaresinfosec/books/blob/main/books/Albert%20Paul%20Malvino_%20David%20J.%20Bates%20-%20Eletr%C3%B4nica%20Volume%202.pdf)
+- [(Albert Paul Malvino\_ David J. Bates - Eletrônica Volume 2)](https://github.com/soaresinfosec/books/blob/main/books/Albert%20Paul%20Malvino_%20David%20J.%20Bates%20-%20Eletr%C3%B4nica%20Volume%202.pdf)
 
-- [(Arduino Descomplicado) Claudio Luis Vieira Oliveira* Humberto Augusto Piovesana Zanetti - Arduino Descomplicado* Como Elaborar Projetos de Eletrônica-Érica (2015)](<https://github.com/free-educa/books/blob/main/books/(Arduino%20Descomplicado)%20Claudio%20Luis%20Vieira%20Oliveira_%20Humberto%20Augusto%20Piovesana%20Zanetti%20-%20Arduino%20Descomplicado_%20Como%20Elaborar%20Projetos%20de%20Eletr%C3%B4nica-%C3%89rica%20(2015).pdf>)
+- [(Arduino Descomplicado) Claudio Luis Vieira Oliveira* Humberto Augusto Piovesana Zanetti - Arduino Descomplicado* Como Elaborar Projetos de Eletrônica-Érica (2015)](https://quaq.me/free-livros/arduino-descomplicado-claudio-luis-vieira-oliveira-humberto-augusto-piovesana-zanetti-arduino-descomplicado-como-elaborar-projetos-de-eletronica-erica-2015)
 
 - [(Make\_ Projects) Massimo Banzi - Getting Started with Arduino -Make (2008)](<https://github.com/free-educa/books/blob/main/books/(Make_%20Projects)%20Massimo%20Banzi%20-%20Getting%20Started%20with%20Arduino%20-Make%20(2008).pdf>)
 
@@ -294,8 +321,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Intelig%C3%AAncia%20Artificial.pdf)
 
-
 - [Livro de Inteligência Artificial](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Intelig%C3%AAncia%20Artificial.pdf)
+- [Inteligência Artificial Uma Abordagem Moderna - 4&#170 Edição (Versão Inglês)](https://github.com/free-educa/books/blob/main/books/Intelig%C3%AAncia%20Artificial%20Uma%20Abordagem%20Moderna%20-%204%C2%AA%20Edi%C3%A7%C3%A3o%20(Vers%C3%A3o%20Ingl%C3%AAs).pdf)
 
 ```markdown
 --- Java:
@@ -357,6 +384,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Vire o jogo com Spring Framework](https://github.com/free-educa/books/blob/main/books/Vire%20o%20jogo%20com%20Spring%20Framework.pdf)
 
+- [Java - A Beginner's Guide, Sixth Edition - Autor (Herbert Schildt)](https://github.com/free-educa/books/blob/main/books/Java%20-%20A%20Beginner's%20Guide%2C%20Sixth%20Edition%20-%20Autor%20(Herbert%20Schildt).pdf)
+
 ```markdown
 --- Javascript:
 ```
@@ -378,6 +407,12 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 - [Logica de programacao - Crie seus primeiros programas usando javascript e html](https://github.com/free-educa/books/blob/main/books/Logica%20de%20programacao%20-%20Crie%20seus%20primeiros%20programas%20usando%20javascript%20e%20html%20-%20Casa%20do%20Codigo.pdf)
 
 - [Meteor - Criando aplicações web real-time com JavaScript](https://github.com/free-educa/books/blob/main/books/Meteor%20-%20Criando%20aplica%C3%A7%C3%B5es%20web%20real-time%20com%20JavaScript%20-%20Casa%20do%20Codigo.pdf)
+
+- [Estruturas de dados e algoritmos com JavaScript - Loiane Groner](https://github.com/free-educa/books/blob/main/books/Estruturas%20de%20dados%20e%20algoritmos%20com%20JavaScript%20(Loiane%20Groner)%20.pdf)
+
+- [Primeiros passos com React - Stoyan Stefanov](https://github.com/free-educa/books/blob/main/books/Primeiros%20passos%20com%20React%20(Stoyan%20Stefanov)%20.pdf)
+
+- [JavaScript de Alto Desempenho - Nicholas C. Zakas](https://github.com/free-educa/books/blob/main/books/JavaScript%20de%20Alto%20Desempenho%20(Nicholas%20C.%20Zakas)%20.pdf)
 
 ```markdown
 --- Linux:
@@ -407,6 +442,9 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Livro de Rede de Computadores e a Internet](https://github.com/free-educa/books/blob/main/books/Livro%20de%20Rede%20de%20Computadores%20e%20a%20Internet.pdf)
 
+- [Ebook - Desconstruindo a Web - As tecnologias por trás de uma requisição](https://github.com/EstherCecilia/free-livros/files/14139541/Ebook.-.Desconstruindo.a.Web.-.As.tecnologias.por.tras.de.uma.requisicao.-.Casa.Do.Codigo.pdf)
+
+
 ```markdown
 --- Shell Script:
 ```
@@ -419,7 +457,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 --- Sistemas:
 ```
 
-- [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](<https://github.com/free-educa/books/blob/main/books/(Embedded%20Technology)%20Chris%20Nagy%20-%20Embedded%20Systems%20Design%20Using%20the%20TI%20MSP430%20Series-Newnes%20(2003).pdf>)
+- [(Embedded Technology) Chris Nagy - Embedded Systems Design Using the TI MSP430 Series-Newnes (2003)](https://quaq.me/free-livros/embedded-technology-chris-nagy-embedded-systems-design-using-the-ti-msp430-series-newnes-2003)
 
 - [(EngineeringPro collection) Dan Harres (Auth.) - Msp430-based Robot Applications. A Guide to Developing Embedded Systems-Newnes (2013)](<https://github.com/free-educa/books/blob/main/books/(EngineeringPro%20collection)%20Dan%20Harres%20(Auth.)%20-%20Msp430-based%20Robot%20Applications.%20A%20Guide%20to%20Developing%20Embedded%20Systems-Newnes%20(2013).pdf>)
 
@@ -481,7 +519,6 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Crypto101](https://github.com/free-educa/books/blob/main/books/Crypto101.pdf)
 
-
 ```markdown
 --- Mobile:
 ```
@@ -503,11 +540,14 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- Nuvem:
 ```
+
 - [Google App Engine - Construindo Servicos na Nuvem](https://github.com/free-educa/books/blob/main/books/Google%20App%20Engine%20-%20Construindo%20Servicos%20na%20Nuvem.pdf)
 
 ```markdown
 --- Software:
 ```
+
+- [Desenvolvimento Ágil Limpo](https://github.com/free-educa/books/blob/main/books/Desenvolvimento%20%C3%81gil%20Limpo%20(Robert%20C.%20Martin%20%5BMartin%2C%20Robert%20C.%5D)%20(z-lib.org).pdf)
 
 - [Agile - Desenvolvimento de software com entregas frequentes e foco no valor de negocio](https://github.com/free-educa/books/blob/main/books/Agile%20-%20Desenvolvimento%20de%20software%20com%20entregas%20frequentes%20e%20foco%20no%20valor%20de%20negocio%20-%20Casa%20do%20Codigo.pdf)
 
@@ -561,16 +601,17 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Python para Todos - Explorando Dados com Python](https://github.com/g4nor4/books/blob/main/books/Python%20para%20Todos.pdf)
 
-
 ```markdown
 --- Requisitos de Software:
 ```
+
 - [User Stories Appplied](https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf)
-- [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf)
+- [Agile Software Requirements Lean Requirements Practices for Teams, Programs, and the Enterprise](<https://github.com/free-educa/books/blob/main/books/Agile%20Software%20Requirements%20Lean%20Requirements%20Practices%20for%20Teams%2C%20Programs%2C%20and%20the%20Enterprise%20by%20Dean%20Leffingwell%20(z-lib.org).pdf>)
 
 ```markdown
 --- Ruby:
 ```
+
 - [Ruby - Aprenda a programar na linguagem mais divertida](https://github.com/free-educa/books/blob/main/books/Ruby%20-%20Aprenda%20a%20programar%20na%20linguagem%20mais%20divertida%20-%20Casa%20do%20Codigo.pdf)
 
 - [Ruby - Aprenda a programar na linguagem mais divertida](https://github.com/free-educa/books/blob/main/books/Ruby%20-%20Aprenda%20a%20programar%20na%20linguagem%20mais%20divertida.pdf)
@@ -581,6 +622,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Refatorando com padroes de projeto - Um guia em ruby](https://github.com/free-educa/books/blob/main/books/Refatorando%20com%20padroes%20de%20projeto%20-%20Um%20guia%20em%20ruby.pdf)
 
+- [Refatoração - Fowler, Martin](https://github.com/free-educa/books/blob/main/books/Refatora%C3%A7%C3%A3o%20(Fowler%2C%20Martin)%20(z-lib.org).pdf)
+
 - [Cucumber e RSpec Construa aplicações Ruby com testes e especificações](https://github.com/free-educa/books/blob/main/books/Cucumber%20e%20RSpec%20Construa%20aplica%C3%A7%C3%B5es%20Ruby%20com%20testes%20e%20especifica%C3%A7%C3%B5es%20-%20Casa%20do%20Codigo.pdf)
 
 - [Cucumber e RSpec Construa aplicações Ruby com testes e especificações](https://github.com/free-educa/books/blob/main/books/Cucumber%20e%20RSpec%20Construa%20aplica%C3%A7%C3%B5es%20Ruby%20com%20testes%20e%20especifica%C3%A7%C3%B5es.pdf)
@@ -588,6 +631,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 ```markdown
 --- SCRUM:
 ```
+
 - [Scrum 360 Um guia completo e prático de agilidade](https://github.com/free-educa/books/blob/main/books/Scrum%20360%20Um%20guia%20completo%20e%20pra%CC%81tico%20de%20agilidade.pdf)
 
 - [Scrum Gestão ágil para projetos de sucesso](https://github.com/free-educa/books/blob/main/books/Scrum%20Gest%C3%A3o%20%C3%A1gil%20para%20projetos%20de%20sucesso.pdf)
@@ -598,11 +642,16 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [MundoJ Segurança com Java](https://github.com/free-educa/books/blob/main/books/MundoJ%20Seguran%C3%A7a%20com%20Java%20-%20Casa%20do%20Codigo.pdf)
 
-- [MundoJ Segurança com Java](https://github.com/free-educa/books/blob/main/books/MundoJ%20Seguran%C3%A7a%20com%20Java.pdf)
+-[Cyberjutsu](https://github.com/free-educa/books/blob/main/books/Cyberjutsu.pdf)
+
+- [Técnicas de Invasão Aprenda as técnicas usadas por hackers em invasões reais](https://github.com/free-educa/books/blob/main/books/T%C3%A9cnicas%20de%20Invas%C3%A3o%20Aprenda%20as%20t%C3%A9cnicas%20usadas%20por%20hackers%20em%20invas%C3%B5es%20reais%20(Bruno%20Fraga)%20(z-lib.org).pdf)
 
 - [Seguranca em aplicacoes Web](https://github.com/free-educa/books/blob/main/books/Seguranca%20em%20aplicacoes%20Web.pdf)
 
 - [Web security](https://github.com/free-educa/books/blob/main/books/wstg-v4.1.pdf)
+
+- [Hacking Para Leigos](https://github.com/free-educa/books/blob/main/books/Hacking%20Para%20Leigos%20(Kevin%20Beaver)%20(z-lib.org).pdf)
+
 ```markdown
 --- Virtualbox:
 ```
@@ -637,304 +686,31 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [opengl.ppt](https://github.com/free-educa/books/blob/main/books/opengl.ppt)
 
-### Idealizadores ✨
-
---------------------------
-<table>
-  <tr>
-    <td align="center">
-       <a href="https://github.com/danrigoni">
-         <img src="https://avatars0.githubusercontent.com/u/59850567?s=460&u=819f257eda77db7a04f48087000bd6124dd65116&v=4"                width="100px;"alt="danrigoni" />
-     </br>
-     <sub>
-         <b>danrigoni</b>
-       </sub>
-     </a>
-   </td>
-   <td align="center">
-     <a href="https://github.com/tiagoGottardo">
-        <img
-          src="https://avatars0.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4"
-          width="100px;"alt="Tiago Panizio Gottardo" />
-        </br>
-       <sub>
-        <b>Tiago Panizio Gottardo</b>
-      </sub>
-      </a>
-      </td>
-  
-  </tr>
-  </table>
-
 ## Contribuidores
 
 ### Este projeto existe graças a todas as pessoas que contribuem. [[Contribua](/CONTRIBUTING.md)].
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/leandroembu">
-        <img
-          src="https://avatars.githubusercontent.com/u/3253741"
-          width="100px;"
-          alt="Leandro Ramos"
-          />
-          <sub>
-            <b>Leandro Ramos</b>
-          </sub>
-      </a>
-   </td>
-    <td>
-      <a href="https://github.com/Hellyson-Ferreira">
-        <img
-          src="https://avatars3.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4"
-          width="100px;" alt="Hellyson Ferreira" />
-          <sub>
-            <b>Hellyson Ferreira</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mateusfg7">
-        <img
-          src="https://avatars0.githubusercontent.com/u/40613276?s=460&u=876c1e765460672bcea6208f4d7e19edb8f17237&v=4"
-          width="100px;" alt="Mateus Felipe Gonçalves" />
-           <sub>
-            <b>Mateus Felipe Gonçalves</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/lucasromagnoli">
-        <img
-          src="https://avatars2.githubusercontent.com/u/20566858?s=460&u=1ebc4c265a21d70d3a0c155d9e026426bf0fabee&v=4"
-          width="100px;" alt="Lucas Ramos Romagnoli" />
-           <sub>
-            <b>Lucas Ramos Romagnoli</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gabrielamenezes">
-        <img
-          src="https://avatars3.githubusercontent.com/u/64161478?s=460&u=1356f8b491eecccaeb9afb16c34beb8a00c75cf3&v=4"
-          width="100px;" alt="Gabriela Menezes" />
-        <sub>
-        <b>Gabriela Menezes</b>
-        </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/brunosana">
-        <img src="https://avatars1.githubusercontent.com/u/39919020?s=460&v=4" width="100px;" alt="brunosana" />
-        <sub>
-            <b>Brunosana</b>
-          </sub>
-      </a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/soaresinfosec">
-      <img
-        src="https://avatars.githubusercontent.com/u/53843918?v=4" width="100px;" alt="sergio" />
-      <sub>
-        <b>Sergio</b>
-      </sub>
-    </a>
-  </td>
-    <td>
-      <a href="https://github.com/Rui-code">
-        <img
-          src="https://avatars3.githubusercontent.com/u/55000714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4"
-          width="100px;" alt="Ruiran Oliveira" />
-          <sub>
-            <b>Ruiran Oliveira</b>
-          </sub>
-      </a>
-    </td>
-    <tr>
-    <td>
-      <a href="https://github.com/MagicalStrangeQuark">
-        <img
-          src="https://avatars2.githubusercontent.com/u/49111142?s=460&u=1d9e3fb6724c7141793c67760847255de73cdb4a&v=4"
-          width="100px;" alt="Wesley Flôres" />
-          <sub>
-            <b>Wesley Flôres</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/solenya1">
-        <img
-          src="https://avatars0.githubusercontent.com/u/64572684?s=460&u=3c846adcc8a7594ff0ddc7b801cf3e74eed20755&v=4"
-          width="100px;" alt="Gabriel Rodrigues" />
-          <sub>
-            <b>Gabriel Rodrigues</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/raphaelbarbosaqwerty">
-        <img
-          src="https://avatars0.githubusercontent.com/u/15701673?s=460&u=c709269c8cfd4179cf134b0763c665e7ae265283&v=4"
-          width="100px;" alt="Ghost" />
-          <sub>
-            <b>Ghost</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gustavo-wanderley">
-        <img
-          src="https://avatars0.githubusercontent.com/u/46036174?s=460&u=9b79532b4eaae207a12a7a524a1758ad64056ff6&v=4"
-          width="100px;" alt="Gustavo Wanderley" />
-          <sub>
-            <b>Gustavo Wanderley</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/gfda">
-        <img
-          src="https://avatars2.githubusercontent.com/u/41340663?s=460&u=275e2d152b7a60738ad83e0a42fe1d37b304c773&v=4"
-          width="100px;" alt="Gustavo Dias Alexandre" />
-          <sub>
-            <b>Gustavo Dias Alexandre</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anisberto">
-        <img
-          src="https://avatars3.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581550c156b6b476d&v=4"
-          width="100px" alt="Anisberto dos Reis do Nascimento" />
-          <sub>
-            <b>Anisberto dos Reis do Nascimento</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DheCastro">
-        <img
-          src="https://avatars1.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4"
-          width="100px;" alt="Dhellano de Castro" />
-          <sub>
-            <b>Dhellano de Castro</b>
-          </sub>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/islanrodrigues">
-        <img src="https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4"
-          width="100px;" alt="Islan Rodrigues" />
-          <sub>
-            <b>Islan Rodrigues</b>
-          </sub>
-      </a>
-      </tr>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rafaelmaframg">
-        <img
-          src="https://avatars.githubusercontent.com/u/69654497?v=4"
-          width="100px;"
-          alt="Rafael Mafra"
-          />
-        <sub>
-          <b>Rafael Mafra</b>
-        </sub>
-      </a>
-    </td>
-  <td align="center">
-    <a href="https://github.com/ed1rac">
-      <img
-        src="https://avatars.githubusercontent.com/u/10122659?v=4"
-        width="100px;"
-        alt="Edkallenn Lima"
-        />
-        <sub>
-        <b>Edkallenn Lima</b>
-      </sub>
-    </a>
-  </td>
-    <td align="center">
-    <a href="https://github.com/all3yp">
-      <img
-        src="https://avatars.githubusercontent.com/u/29764688?v=4"
-        width="100%"
-        alt="Alley Pereira"
-        />
-      <sub>
-        <b>Alley Pereira</b>
-      </sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/0ortiz">
-      <img
-        src="https://avatars.githubusercontent.com/u/98562355?v=4"
-        width="100px;"
-        alt="Wendel Ortiz"
-        />
-      <sub>
-        <b>0ortiz</b>
-      </sub>
-    </a>
-  </td>
 
-  <td align="center">
-    <a href="https://github.com/lemostrash">
-      <img
-        src="https://avatars.githubusercontent.com/u/53500223?v=4"
-        width="100px;"
-        alt="Lemostrash"
-        />
-      <sub>
-        <b>Lemostrash</b>
-      </sub>
-    </a>
-  </td>
-<td align="center">
-    <a href="https://github.com/g4nor4">
-      <img
-        src="https://avatars.githubusercontent.com/u/90690022?v=4"
-        width="100px;"
-        alt="Gabi Nora"
-        />
-      <sub>
-        <b>Nora</b>
-      </sub>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/g4nor4">
-      <img
-        src="https://avatars.githubusercontent.com/u/48574832?s=96&v=4"
-        width="100px;"
-        alt="Samuel Nogueira Bacelar"
-        />
-      <sub>
-        <b>Samuel Nogueira Bacelar</b>
-      </sub>
-    </a>
-  </td>
+| ![Breno Moreira](https://avatars.githubusercontent.com/u/85278831?v=4) | ![Tiago Panizio](https://avatars.githubusercontent.com/u/50255813?s=460&u=73174b63e530944d744ef9ecee77c576d608c82b&v=4) | ![Leandro Ramos](https://avatars.githubusercontent.com/u/3253741) | ![Hellyson Ferreira](https://avatars.githubusercontent.com/u/37805353?s=460&u=67a188db08edc6411c55fa94608ba4a552d46ce4&v=4) | ![Mateus Felipe Gonçalves](https://avatars.githubusercontent.com/u/40613276?s=460&u=876c1e765460672bcea6208f4d7e19edb8f17237&v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Breno Moreira](https://github.com/brenomorp) | [Tiago Panizio](https://github.com/tiagoGottardo) | [Leandro Ramos](https://github.com/leandroembu) | [Hellyson Ferreira](https://github.com/Hellyson-Ferreira) | [Mateus Felipe Gonçalves](https://github.com/mateusfg7) |
+     
 
+| ![Lucas Ramos Romagnoli](https://avatars.githubusercontent.com/u/20566858?s=460&u=1ebc4c265a21d70d3a0c155d9e026426bf0fabee&v=4) | ![Gabriela Menezes](https://avatars.githubusercontent.com/u/64161478?s=460&u=1356f8b491eecccaeb9afb16c34beb8a00c75cf3&v=4) | ![Brunosana](https://avatars.githubusercontent.com/u/39919020?s=460&v=4) | ![Sergio](https://avatars.githubusercontent.com/u/53843918?v=4) | ![Ruiran Oliveira](https://avatars.githubusercontent.com/u/55000714?s=460&u=96c9f8649132a1b07c7016597d1f0bdfbd4ef056&v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Lucas Ramos Romagnoli](https://github.com/lucasromagnoli) | [Gabriela Menezes](https://github.com/gabrielamenezes) | [Brunosana](https://github.com/brunosana) | [Sergio](https://github.com/soaresinfosec) | [Ruiran Oliveira](https://github.com/Rui-code) |
 
-<!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
-</table>
- </tr>
-  
-  <!-- EXEMPLO DE CONTRIBUIDOR -->
-  <!-- <td >
-      <a href="{LINK DE PERFIL}">
-        <img
-          src="{LINK DE FOTO DE PERFIL}"
-          width="100px;"
-          alt="{NOME DE USUARIO}"
-         />
-        <sub>
-        <b>NOME DE USUARIO</b>
-        </sub>
-      </a>
-    </td> -->
-  </tr>
-</table>
+| ![Wesley Flôres](https://avatars.githubusercontent.com/u/49111142?s=460&u=1d9e3fb6724c7141793c67760847255de73cdb4a&v=4) | ![Gabriel Rodrigues](https://avatars.githubusercontent.com/u/64572684?s=460&u=3c846adcc8a7594ff0ddc7b801cf3e74eed20755&v=4) | ![Ghost](https://avatars.githubusercontent.com/u/15701673?s=460&u=c709269c8cfd4179cf134b0763c665e7ae265283&v=4) | ![Gustavo Wanderley](https://avatars.githubusercontent.com/u/46036174?s=460&u=9b79532b4eaae207a12a7a524a1758ad64056ff6&v=4) | ![Gustavo Dias Alexandre](https://avatars.githubusercontent.com/u/41340663?s=460&u=275e2d152b7a60738ad83e0a42fe1d37b304c773&v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Wesley Flôres](https://github.com/MagicalStrangeQuark) | [Gabriel Rodrigues](https://github.com/solenya1) | [Ghost](https://github.com/raphaelbarbosaqwerty) | [Gustavo Wanderley](https://github.com/gustavo-wanderley) | [Gustavo Dias Alexandre](https://github.com/gfda) |
 
+| ![Anisberto dos Reis do Nascimento](https://avatars.githubusercontent.com/u/46682639?s=460&u=d6deb254a7ba108c465d3a1581550c156b6b476d&v=4) | ![Dhellano de Castro](https://avatars.githubusercontent.com/u/12981838?s=460&u=84a11e2ea102b8c4ad6cdaf69e84c3d92039907e&v=4) | ![Islan Rodrigues](https://avatars.githubusercontent.com/u/8366406?s=460&u=0e92c429707ae3985df1487fe9c7fd7523cdc7bd&v=4) | ![David S. Silva](https://avatars.githubusercontent.com/u/132403917?v=4) | ![Rafael Mafra](https://avatars.githubusercontent.com/u/69654497?v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Anisberto dos Reis do Nascimento](https://github.com/anisberto) | [Dhellano de Castro](https://github.com/DheCastro) | [Islan Rodrigues](https://github.com/islanrodrigues) | [David S. Silva](https://github.com/wi2david) | [Rafael Mafra](https://github.com/rafaelmaframg) |
+
+| ![Edkallenn Lima](https://avatars.githubusercontent.com/u/10122659?v=4) | ![Alley Pereira](https://avatars.githubusercontent.com/u/29764688?v=4) | ![Wendel Ortiz](https://avatars.githubusercontent.com/u/98562355?v=4) | ![Lemostrash](https://avatars.githubusercontent.com/u/53500223?v=4) | ![Gabi Nora](https://avatars.githubusercontent.com/u/90690022?v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Edkallenn Lima](https://github.com/ed1rac) | [Alley Pereira](https://github.com/all3yp) | [Wendel Ortiz](https://github.com/0ortiz) | [Lemostrash](https://github.com/lemostrash) | [Gabi Nora](https://github.com/g4nor4) |
+
+| ![Samuel Nogueira Bacelar](https://avatars.githubusercontent.com/u/48574832?s=96&v=4) | ![Andrey Mateus](https://avatars.githubusercontent.com/u/68996182?v=4) | ![Fredi Machado](https://avatars.githubusercontent.com/u/29800?v=4) | ![Jennyfer Lima](https://avatars.githubusercontent.com/u/32622359?v=4) |
+|:---:|:---:|:---:|:---:|
+| [Samuel Nogueira Bacelar](https://github.com/g4nor4) | [Andrey Mateus](https://github.com/AndreyMateus) | [Fredi Machado](https://github.com/fredimachado) | [Jennyfer Lima](https://github.com/Jenny
